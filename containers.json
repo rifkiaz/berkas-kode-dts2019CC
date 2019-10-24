@@ -1,0 +1,9 @@
+[
+    {
+      "Description": "Tiny Linux ova",
+      "Format": "ova",
+      "UserBucket": {
+          "S3Bucket": "disk-image-list-bucket",
+          "S3Key": "tiny-vm.ova"
+      }
+  }]
